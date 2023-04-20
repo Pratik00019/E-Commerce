@@ -1,0 +1,28 @@
+.custom-card {
+  width: 390px;
+  height: 370px;
+}
+
+.custom-card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.custom-card .card-body .text-center {
+  margin-bottom: 1rem;
+  margin-top: auto;
+}
+
+.price-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px 007bff;
+  border-radius: 5px;
+  padding: 5px;
+  width: fit-content;
+  background-color: #007bff;
+
+}
