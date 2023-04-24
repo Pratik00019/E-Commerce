@@ -1,0 +1,6 @@
+.disable{
+	cursor: not-allowed;
+    opacity: 0.65;
+    filter: alpha(opacity=65);
+    box-shadow: none;
+}

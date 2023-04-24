@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './components/Navbar';
 import Items from './components/Items';
 import MyCart from './components/MyCart';
 
 import {
-  BrowserRouter as Router,
+  // BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
